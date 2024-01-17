@@ -1,0 +1,17 @@
+/* center h1 */
+h1 {
+    text-align: center;
+    /* change font */
+    font-family: 'Oswald', serif;
+}
+/* make a box around h1 */
+h1 {
+    border: 10px solid rgb(39, 63, 204);
+    /* round edges */
+    border-radius: 25px;
+}
+
+/* center p */
+p                        {
+    text-align: center;
+}
