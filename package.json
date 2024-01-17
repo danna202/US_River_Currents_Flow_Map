@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node": "^21.2.0",
     "nodes": "^0.1.0"
   }
 }
