@@ -12,3 +12,17 @@ axios.get('/river_flow_data')
     .catch(error => {
         console.error('Error fetching river flow data:', error);
     });
+// create a red polyline from an array of LatLng points
+const latlngs = [
+    [45.51, -122.68],
+    [37.77, -122.43],
+    [34.04, -118.2]
+];
+
+const polyline = L.polyline(latlngs, {color: 'red'}).addTo(map);
+
+
+// zoom the map to the polyline
+map.fitBounds(polyline.getBounds());
+
+

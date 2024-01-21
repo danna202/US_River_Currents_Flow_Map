@@ -1,3 +1,77 @@
+/* add background color */
+body {
+    background-color: #E9FDFF;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center body */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center body */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center body */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center body */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center body */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+}
+
+
 /* center h1 */
 h1 {
     text-align: center;
@@ -6,12 +80,166 @@ h1 {
 }
 /* make a box around h1 */
 h1 {
-    border: 10px solid rgb(39, 63, 204);
+    margin: 20px;
+        border: 10px solid#00565E;
     /* round edges */
-    border-radius: 25px;
+    border-radius: 15px;
+    /* shorten length */
+    width: 50%;
+    /* center h1 */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+
+}
+/* add space between h1 and form */
+h1 {
+    margin-bottom: 30px;
+}
+/* add a submit button */
+    /* center button */
+/* center form */
+form {
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #E9FDFF;
+    /* add padding */
+    padding: 10px;
+    /* round edges */
+    border-radius: 15px;
+    /* shorten length */
+    width: 50%;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #E9FDFF;
+    /* add padding */
+    padding: 10px;
+    /* round edges */
+    border-radius: 15px;
+    /* shorten length */
+    width: 50%;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #E9FDFF;
+    /* add padding */
+    padding: 10px;
+    /* round edges */
+    border-radius: 15px;
+    /* shorten length */
+    width: 50%;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #E9FDFF;
+    /* add padding */
+    padding: 10px;
+    /* round edges */
+    border-radius: 15px;
+    /* shorten length */
+    width: 50%;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #E9FDFF;
 }
 
+
+button[type="submit"] {
+    /*align button center */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #00A9C4;
+    /* add padding */
+    padding: 10px;
+    /* round edges */
+    border-radius: 15px;
+    /* shorten length */
+    width: 25%;
+    /* center button */
+    margin: auto;
+    /* add padding */
+    padding: 10px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: rgb(39, 63, 204);
+
+
+ 
+    background-color:#00565E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
 /* center p */
-p                        {
+/* underline text */
+p {
+    text-decoration: underline;
+    /* center p */
     text-align: center;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+/* } */
+/* p { */
+    /* text-align: center; */
+    border: 10px solid #00A9C4; 
+    /* round edges */
+    /* border-radius: 15px; */
+    /* shorten length
+    width: 50%;
+    /* center p */
+    margin: auto;
+    /* add padding */
+    padding: 0px;
 }
+
