@@ -85,135 +85,257 @@ h1 {
     /* round edges */
     border-radius: 15px;
     /* shorten length */
-    width: 50%;
+    width: 75%;
     /* center h1 */
     margin: auto;
     /* add padding */
     padding: 10px;
 
 }
+
+/* add signuup/login form with button */
+ form {
+    /* center form text align */
+    text-align: center;
+    /* make input field larger */
+    width: 75%;
+    margin: auto;
+    /* add padding */
+    padding: 50px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* add padding */
+    padding: 20px;
+    /* center form */
+    margin: auto;
+    /* add padding */
+    padding: 20px;
+    /* change font */
+    font-family: 'Oswald', serif;
+    /* change font size */
+    font-size: 20px;
+    /* change font color */
+    color: #684531;
+    /* label for "input field"   */
+    label {
+        /* change font */
+        font-family: 'Oswald', sans-serif;
+        /* change font size */
+        font-size: 30px;
+        /* change font color */
+        color: #684531;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 50px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center label */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+    
+
+     
+    }
+    /* make "text" bigger */
+    input[type=text] {
+        /* change background color */
+        background-color: #FFF7D6;
+        /* change font */
+        font-family: 'Oswald', sans-serif;
+        /* change font size */
+        font-size: 20px;
+        /* change font color */
+        color: #684531;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 30px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center input field */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* text-input field bigger */
+        width: 25%;
+    }
+
+ }
+ 
+ /* button color and button size to fit device*/
+    button {
+                   
+        /* change button color */
+        background-color: #684531;
+        /* change font */
+        font-family: 'Oswald', serif;
+        /* change font size */
+        font-size: 20px;
+        /* change font color */
+        color: #FFF7D6;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* round edges */
+        border-radius: 15px;
+        /* shorten length */
+        width: 100px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+        /* center button */
+        margin: auto;
+        /* add padding */
+        padding: 10px;
+    }
+    /* change button color when mouse hovers over button */
+    button:hover {
+        /* change button color */
+        background-color: #00565E;
+        /* change text color */
+        color: #00A9C4;
+    }
 /* add space between h1 and form */
 h1 {
     margin-bottom: 30px;
 }
-/* add a submit button */
-    /* center button */
-/* center form */
-form {
-    /* center form */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: #E9FDFF;
-    /* add padding */
-    padding: 10px;
-    /* round edges */
-    border-radius: 15px;
-    /* shorten length */
-    width: 50%;
-    /* center form */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: #E9FDFF;
-    /* add padding */
-    padding: 10px;
-    /* round edges */
-    border-radius: 15px;
-    /* shorten length */
-    width: 50%;
-    /* center form */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: #E9FDFF;
-    /* add padding */
-    padding: 10px;
-    /* round edges */
-    border-radius: 15px;
-    /* shorten length */
-    width: 50%;
-    /* center form */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: #E9FDFF;
-    /* add padding */
-    padding: 10px;
-    /* round edges */
-    border-radius: 15px;
-    /* shorten length */
-    width: 50%;
-    /* center form */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: #E9FDFF;
-}
 
+  /* add space between form and p */
+    form {
+        margin-bottom: 30px;    
+    }
+    
 
-button[type="submit"] {
-    /*align button center */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: #00A9C4;
-    /* add padding */
-    padding: 10px;
-    /* round edges */
-    border-radius: 15px;
-    /* shorten length */
-    width: 25%;
-    /* center button */
-    margin: auto;
-    /* add padding */
-    padding: 10px;
-    /* change font */
-    font-family: 'Oswald', serif;
-    /* change font size */
-    font-size: 20px;
-    /* change font color */
-    color: rgb(39, 63, 204);
-
-
- 
-    background-color:#00565E;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
 
 /* center p */
 /* underline text */
@@ -224,22 +346,25 @@ p {
     /* change font */
     font-family: 'Oswald', serif;
     /* change font size */
-    font-size: 20px;
+    font-size: 30px;
     /* change font color */
     color: #684531;
     /* add padding */
-    padding: 20px;
-/* } */
+    padding: 10px;
+    /* center p */
+    margin: 75%;
+
 /* p { */
     /* text-align: center; */
-    border: 10px solid #00A9C4; 
+    border: 10px solid #00565E; 
     /* round edges */
-    /* border-radius: 15px; */
-    /* shorten length
+    border-radius: 15px;
+    /* shorten length of border */
     width: 50%;
+    
     /* center p */
     margin: auto;
     /* add padding */
-    padding: 0px;
+    padding: 5px;
 }
 
