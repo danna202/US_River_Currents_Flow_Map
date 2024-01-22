@@ -1,5 +1,23 @@
 /* add background color */
 body {
+  
+        margin: 0;
+        padding: 0;
+    }
+    
+    /* Create a container for the background image */
+    .background-container {
+        height: 15vh; /* Set the height to 25% of the viewport height */
+        background: url('file:///C:/Users/jebdk/OneDrive/Desktop/river%20flow%20over%20rocks.jpg') center center no-repeat;
+
+        background-size: cover;
+    }
+    
+    /* Add other styles for your content, such as text color, font, etc. */
+    
+    
+    /* Add other styles for your content, such as text color, font, etc. */
+    body {
     background-color: #E9FDFF;
     /* change font */
     font-family: 'Oswald', serif;
@@ -77,6 +95,7 @@ h1 {
     text-align: center;
     /* change font */
     font-family: 'Oswald', serif;
+    background-color: #FFF7D6;
 }
 /* make a box around h1 */
 h1 {
@@ -264,6 +283,7 @@ h1 {
         /* change font color */
         color: #FFF7D6;
         /* add padding */
+        width: 200px;
         padding: 10px;
         /* center button */
         margin: auto;
@@ -337,9 +357,9 @@ h1 {
     
 
 
-/* center p */
-/* underline text */
+
 p {
+    background-color: #FFF7D6;
     text-decoration: underline;
     /* center p */
     text-align: center;
@@ -354,17 +374,19 @@ p {
     /* center p */
     margin: 75%;
 
-/* p { */
-    /* text-align: center; */
+}
+ p {
     border: 10px solid #00565E; 
+        
+    
     /* round edges */
     border-radius: 15px;
-    /* shorten length of border */
+  
     width: 50%;
     
-    /* center p */
+   
     margin: auto;
-    /* add padding */
+   
     padding: 5px;
 }
 

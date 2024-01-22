@@ -14,3 +14,5 @@ Features:
 8. Help Section
 
 GitHub Repository
+
+Deploy
